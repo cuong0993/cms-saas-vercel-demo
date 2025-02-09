@@ -1,7 +1,7 @@
 # Release notes
 
 - **December 16th, 2024**
-  Updated to SDK version 4.0.0 to align with the SaaS CMS Feature Release
+  Updated to SDK version 4.2.0 to align with the SaaS CMS Feature Release
 
 - **October 25th, 2023**
 
